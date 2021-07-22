@@ -59,11 +59,11 @@ By contacting me.
 ## Discord 
 You shouldn't prefer Discord, I might have changed my username.
 - Discord Account : Tenardie#9999
-- Discord Server : <!-- Will Be Added -->
+- Discord Server : WIP
 
 ***
 
 # Active Projects
-- <!--Will Be Added-->
+- WIP
 
 
