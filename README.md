@@ -1,4 +1,4 @@
-# [tenardie](https://github.com/tenardie)
+# [TENARDIE](https://github.com/tenardie)
 17 years old teenager who loves Computer & Software.
 
 ***
