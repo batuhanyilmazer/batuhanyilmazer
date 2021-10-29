@@ -1,7 +1,6 @@
 # Tenardie
+https://img.shields.io/github/followers/tenardie?label=Follow%20Me%21&style=social
 17 years old teenager who loves Computer & Software.
-
-[Web Site](https://www.ylmzr.xyz)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)](https://www.ylmzr.xyz/)
