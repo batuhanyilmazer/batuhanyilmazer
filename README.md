@@ -1,5 +1,8 @@
 # Tenardie
 ![GitHub followers](https://img.shields.io/github/followers/tenardie?label=Follow%20Me%21&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/tenardie?style=social)
+
+
 17 years old teenager who loves Computer & Software.
 
 
