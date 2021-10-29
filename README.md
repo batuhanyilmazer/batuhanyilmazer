@@ -4,7 +4,7 @@
 [Web Site](https://www.ylmzr.xyz)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)]
 (https://www.ylmzr.xyz/)
 
 # Currently Known Languages :
