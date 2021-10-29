@@ -2,6 +2,7 @@
 17 years old teenager who loves Computer & Software.
 
 [Web Site](https://www.ylmzr.xyz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie)](https://github.com/anuraghazra/github-readme-stats)
 
 # Currently Known Languages :
 * Java (%95)
