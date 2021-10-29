@@ -1,9 +1,6 @@
 # Tenardie
-https://img.shields.io/github/followers/tenardie?label=Follow%20Me%21&style=social
+![GitHub followers](https://img.shields.io/github/followers/tenardie?label=Follow%20Me%21&style=social)
 17 years old teenager who loves Computer & Software.
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)](https://www.ylmzr.xyz/)
 
 
 # Currently Known Languages :
@@ -60,3 +57,6 @@ You shouldn't prefer Discord, I might have changed my username.
 
 # Active Projects
 - `Will Be Added`
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)](https://www.ylmzr.xyz/)
