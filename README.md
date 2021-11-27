@@ -51,8 +51,7 @@ By contacting me.
 
 # Contact
 ### Email
-- tenardie@ylmzr.xyz
-- yilmazer.main@gmail.com
+- I should renew my domain :(
 ### Discord 
 You shouldn't prefer Discord, I might have changed my username.
 - Discord Account : Tenardie#9999
