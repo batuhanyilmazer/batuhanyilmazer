@@ -1,14 +1,17 @@
 # Tenardie
+![GitHub followers](https://img.shields.io/github/followers/tenardie?label=Follow%20Me%21&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/tenardie?style=social)
+
+
 17 years old teenager who loves Computer & Software.
 
-[Web Site](https://www.ylmzr.xyz)
 
 # Currently Known Languages :
-* Java (%95)
+* Java (%90)
     * JavaFX
     * Maven & Gradle
-* C# (%90)
-* Python (%50)
+* C# (%95)
+* Python (%20)
 * C++ (%50)
     * Arduino
 
@@ -48,12 +51,14 @@ By contacting me.
 
 # Contact
 ### Email
-- tenardie@ylmzr.xyz
-- yilmazer.main@gmail.com
+- I should renew my domain :(
 ### Discord 
 You shouldn't prefer Discord, I might have changed my username.
-- Discord Account : Tenardie#9999
+- Discord Account : Tenardie#????
 - Discord Server : `Will Be Added`
 
 # Active Projects
 - `Will Be Added`
+
+
+[![Tenardie's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)](https://www.ylmzr.xyz/)
