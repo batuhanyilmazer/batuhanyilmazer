@@ -7,11 +7,11 @@
 
 
 # Currently Known Languages :
-* Java (%95)
+* Java (%90)
     * JavaFX
     * Maven & Gradle
-* C# (%90)
-* Python (%50)
+* C# (%95)
+* Python (%20)
 * C++ (%50)
     * Arduino
 
@@ -54,11 +54,11 @@ By contacting me.
 - I should renew my domain :(
 ### Discord 
 You shouldn't prefer Discord, I might have changed my username.
-- Discord Account : Tenardie#9999
+- Discord Account : Tenardie#????
 - Discord Server : `Will Be Added`
 
 # Active Projects
 - `Will Be Added`
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)](https://www.ylmzr.xyz/)
+[![Tenardie's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)](https://www.ylmzr.xyz/)
