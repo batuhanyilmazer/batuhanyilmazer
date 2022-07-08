@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/tenardie?label=Follow%20Me%21&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/tenardie?style=social)
 
-# Currently Known Languages :
+# Known Languages :
 * Java- Native Application Dev.
     * JavaFX
     * Use of Maven & Gradle in Modular Projects
@@ -31,5 +31,5 @@
 # Active Projects
 - `N/A`
 
-
-[![Tenardie's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)](https://www.ylmzr.xyz/)
+# GitHub Assesment
+[![Tenardie's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)](http://undefined)
