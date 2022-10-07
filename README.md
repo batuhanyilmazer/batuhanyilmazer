@@ -1,28 +1,6 @@
-# Tenardie
-![GitHub followers](https://img.shields.io/github/followers/tenardie?label=Follow%20Me%21&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/tenardie?style=social)
-
-# Known Languages :
-* Java- Native Application Dev.
-    * JavaFX
-    * Use of Maven & Gradle in Modular Projects
-* C#
-* Python (Not Preferred)
-* C++ (Not Preferred)
-    * Arduino
-    * Microchips (Atmel etc.)
-
-#  What am I using?
-### Version Control
-* GitHub
-    * GitKraken
-### IDE & Code Editor
-* JetBrains
-    * IntelliJ IDEA Ultimate
-    * Rider
-    * PyCharm Ultimate
-    * DataLore
-* Visual Studio 2019 Community
+# Batuhan Yilmazer
+![GitHub followers](https://img.shields.io/github/followers/batuhanyilmazer?label=Follow%20Me%21&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/batuhanyilmazer?style=social)
 
 # Contact
 ### Email
@@ -32,4 +10,4 @@
 - `N/A`
 
 # GitHub Assesment
-[![Tenardie's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenardie&show_icons=true&theme=radical)](http://undefined)
+[![Tenardie's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanyilmazer&show_icons=true&theme=radical)](http://undefined)
