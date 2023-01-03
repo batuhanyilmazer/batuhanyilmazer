@@ -7,7 +7,7 @@
 - batu@duck.com
 
 # Active Projects
-- `N/A`
+- autodtb.com
 
 # GitHub Assesment
-[![Tenardie's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanyilmazer&show_icons=true&theme=radical)](http://undefined)
+[![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhanyilmazer&show_icons=true&theme=radical)](http://undefined)
